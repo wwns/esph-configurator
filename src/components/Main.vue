@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1 class="title is-2">ESPH JC.</h1>
+    <h1 class="title is-2">JSON Configurator GUI.</h1>
 
     <b-field label="sample config" horizontal>
       <b-field>
