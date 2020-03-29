@@ -1,4 +1,4 @@
-# esph-configurator
+## ESPH-configurator
 ESPH Json Configurator GUI
 
 ### Library:
