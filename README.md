@@ -1,3 +1,5 @@
 # esph-configurator
 ESPH Json Configurator GUI
-Maximilian Beck
+
+Library:
+Maximilian Beck https://github.com/glumb
